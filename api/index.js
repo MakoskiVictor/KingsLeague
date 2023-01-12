@@ -7,7 +7,7 @@ app.get('/', (c) => {
   return c.json([
     {
       endpoint: '/leaderboard',
-      description: 'returns the leaderboard'
+      description: 'Returns the leaderboard'
     }
   ])
 })
