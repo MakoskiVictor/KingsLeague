@@ -1,110 +1,158 @@
 [
   {
-    "team": "Ultimate Móstoles",
     "wins": 2,
     "loses": 0,
     "goalsScored": 8,
     "goalsConceded": 3,
     "yellowCards": 1,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "Ultimate Móstoles",
+      "name": "Ultimate Móstoles",
+      "image": "/ultimate-mostoles.svg"
+    }
   },
   {
-    "team": "1K FC",
     "wins": 2,
     "loses": 0,
     "goalsScored": 7,
     "goalsConceded": 4,
     "yellowCards": 0,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "1K FC",
+      "name": "1K FC",
+      "image": "/1k.svg"
+    }
   },
   {
-    "team": "Saiyans FC",
     "wins": 2,
     "loses": 0,
     "goalsScored": 5,
     "goalsConceded": 3,
     "yellowCards": 3,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "Saiyans FC",
+      "name": "Saiyans FC",
+      "image": "/saiyans-fc.svg"
+    }
   },
   {
-    "team": "Kunisports",
     "wins": 2,
     "loses": 0,
     "goalsScored": 3,
     "goalsConceded": 1,
     "yellowCards": 1,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "Kunisports",
+      "name": "Kunisports",
+      "image": "/kunisports.svg"
+    }
   },
   {
-    "team": "El Barrio",
     "wins": 1,
     "loses": 1,
     "goalsScored": 7,
     "goalsConceded": 3,
     "yellowCards": 1,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "El Barrio",
+      "name": "El Barrio",
+      "image": "/el-bbarrio.svg"
+    }
   },
   {
-    "team": "Los Troncos FC",
     "wins": 1,
     "loses": 1,
     "goalsScored": 8,
     "goalsConceded": 8,
     "yellowCards": 1,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "Los Troncos FC",
+      "name": "Los Troncos FC",
+      "image": "/los-troncos.jpg"
+    }
   },
   {
-    "team": "Porcinos FC",
     "wins": 1,
     "loses": 1,
     "goalsScored": 7,
     "goalsConceded": 7,
     "yellowCards": 1,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "Porcinos FC",
+      "name": "Porcinos FC",
+      "image": "/porcinos.svg"
+    }
   },
   {
-    "team": "Rayo de Barcelona",
     "wins": 1,
     "loses": 1,
     "goalsScored": 7,
     "goalsConceded": 7,
     "yellowCards": 0,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "Rayo de Barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "/rayo-barcelona.svg"
+    }
   },
   {
-    "team": "Jijantes FC",
     "wins": 0,
     "loses": 2,
     "goalsScored": 4,
     "goalsConceded": 7,
     "yellowCards": 2,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "Jijantes FC",
+      "name": "Jijantes FC",
+      "image": "/jijantes.svg"
+    }
   },
   {
-    "team": "XBUYER TEAM",
     "wins": 0,
     "loses": 2,
     "goalsScored": 3,
     "goalsConceded": 6,
     "yellowCards": 1,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "XBUYER TEAM",
+      "name": "XBUYER TEAM",
+      "image": "/xbuyer.svg"
+    }
   },
   {
-    "team": "Aniquiladores FC",
     "wins": 0,
     "loses": 2,
     "goalsScored": 3,
     "goalsConceded": 8,
     "yellowCards": 0,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "Aniquiladores FC",
+      "name": "Aniquiladores FC",
+      "image": "/aniquiladores-fc.svg"
+    }
   },
   {
-    "team": "PIO FC",
     "wins": 0,
     "loses": 2,
     "goalsScored": 1,
     "goalsConceded": 6,
     "yellowCards": 3,
-    "redCards": 0
+    "redCards": 0,
+    "team": {
+      "id": "PIO FC",
+      "name": "PIO FC",
+      "image": "/pio-fc.svg"
+    }
   }
 ]
