@@ -1,0 +1,63 @@
+[
+    {
+        "id": "Ultimate Móstoles",
+        "name": "Ultimate Móstoles",
+        "image": "/ultimate-mostoles.svg"
+    },
+    {
+        "id": "1K FC",
+        "name": "1K FC",
+        "image": "/1k.svg"
+    },
+    {
+        "id": "Saiyans FC",
+        "name": "Saiyans FC",
+        "image": "/saiyans-fc.svg"
+    },
+    {
+        "id": "Kunisports",
+        "name": "Kunisports",
+        "image": "/kunisports.svg"
+    },
+    {
+        "id": "El Barrio",
+        "name": "El Barrio",
+        "image": "/el-bbarrio.svg"
+    },
+    {
+        "id": "Los Troncos FC",
+        "name": "Los Troncos FC",
+        "image": "/los-troncos.jpg"
+    },
+    {
+        "id": "Porcinos FC",
+        "name": "Porcinos FC",
+        "image": "/porcinos.svg"
+    },
+    {
+        "id": "Rayo de Barcelona",
+        "name": "Rayo de Barcelona",
+        "image": "/rayo-barcelona.svg"
+    },
+    {
+        "id": "Jijantes FC",
+        "name": "Jijantes FC",
+        "image": "/jijantes.svg"
+    },
+    {
+        "id": "XBUYER TEAM",
+        "name": "XBUYER TEAM",
+        "image": "/xbuyer.svg"
+    },
+    {
+        "id": "Aniquiladores FC",
+        "name": "Aniquiladores FC",
+        "image": "/aniquiladores-fc.svg"
+    },
+    {
+        "id": "PIO FC",
+        "name": "PIO FC",
+        "image": "/pio-fc.svg"
+    }
+    
+]
