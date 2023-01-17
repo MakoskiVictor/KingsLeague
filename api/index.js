@@ -31,6 +31,14 @@ app.get('/presidents', (c) => {
   return c.json(presidents)
 })
 
+app.get('/presidents/:id', (c) => {
+  const id = c.req.param('id')
+  const foundPresident = presidents.find(presidents => presidents.id === id)
+  return foundPresident
+    ? c.json(foundPresident)
+    : c.json({ message: 'President not found' }, 404)
+})
+
 app.get('/teams', (c) => {
   return c.json(team)
 })
