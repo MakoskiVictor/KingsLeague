@@ -2,9 +2,9 @@ lockfileVersion: 5.4
 
 specifiers:
   cheerio: 1.0.0-rc.12
-  hono: ^2.7.2
+  hono: 2.7.2
   standard: 17.0.0
-  vitest: ^0.27.1
+  vitest: 0.27.1
   wrangler: 2.7.1
 
 dependencies:
