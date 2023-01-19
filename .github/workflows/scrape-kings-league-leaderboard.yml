@@ -26,6 +26,7 @@ jobs:
       - uses: pnpm/action-setup@v2
         with:
           version: 7.22.0
+          run_install: true
       - run: |
           node scraping/leaderboard.js
           git config user.name kings-league-api-bot
