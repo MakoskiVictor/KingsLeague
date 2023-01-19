@@ -1,0 +1,230 @@
+[
+  {
+    "wins": 3,
+    "loses": 0,
+    "goalsScored": 10,
+    "goalsConceded": 4,
+    "yellowCards": 3,
+    "redCards": 1,
+    "team": {
+      "id": "Saiyans FC",
+      "name": "Saiyans FC",
+      "image": "/saiyans-fc.svg",
+      "president": {
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://kingsleague.dev/presidents/thegrefg.webp",
+        "teamId": "saiyans-fc"
+      }
+    }
+  },
+  {
+    "wins": 3,
+    "loses": 0,
+    "goalsScored": 12,
+    "goalsConceded": 7,
+    "yellowCards": 0,
+    "redCards": 0,
+    "team": {
+      "id": "1K FC",
+      "name": "1K FC",
+      "image": "/1k.svg",
+      "president": {
+        "id": "iker-casillas",
+        "name": "Iker Casillas",
+        "image": "https://kingsleague.dev/presidents/iker-casillas.webp",
+        "teamId": "1k"
+      }
+    }
+  },
+  {
+    "wins": 2,
+    "loses": 1,
+    "goalsScored": 5,
+    "goalsConceded": 3,
+    "yellowCards": 2,
+    "redCards": 0,
+    "team": {
+      "id": "Kunisports",
+      "name": "Kunisports",
+      "image": "/kunisports.svg",
+      "president": {
+        "id": "kun-aguero",
+        "name": "Kun Agüero",
+        "image": "https://kingsleague.dev/presidents/kun-aguero.webp",
+        "teamId": "kunisports"
+      }
+    }
+  },
+  {
+    "wins": 2,
+    "loses": 1,
+    "goalsScored": 11,
+    "goalsConceded": 10,
+    "yellowCards": 2,
+    "redCards": 0,
+    "team": {
+      "id": "Los Troncos FC",
+      "name": "Los Troncos FC",
+      "image": "/los-troncos.jpg",
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kingsleague.dev/presidents/perxitaa.webp",
+        "teamId": "los-troncos-fc"
+      }
+    }
+  },
+  {
+    "wins": 2,
+    "loses": 1,
+    "goalsScored": 9,
+    "goalsConceded": 8,
+    "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "id": "Ultimate Móstoles",
+      "name": "Ultimate Móstoles",
+      "image": "/ultimate-mostoles.svg",
+      "president": {
+        "id": "djmariio",
+        "name": "DjMaRiiO",
+        "image": "https://kingsleague.dev/presidents/djmariio.webp",
+        "teamId": "ultimate-mostoles"
+      }
+    }
+  },
+  {
+    "wins": 2,
+    "loses": 1,
+    "goalsScored": 9,
+    "goalsConceded": 9,
+    "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "id": "Porcinos FC",
+      "name": "Porcinos FC",
+      "image": "/porcinos.svg",
+      "president": {
+        "id": "ibai-llanos",
+        "name": "Ibai Llanos",
+        "image": "https://kingsleague.dev/presidents/ibai-llanos.webp",
+        "teamId": "porcinos-fc"
+      }
+    }
+  },
+  {
+    "wins": 1,
+    "loses": 2,
+    "goalsScored": 8,
+    "goalsConceded": 7,
+    "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "id": "El Barrio",
+      "name": "El Barrio",
+      "image": "/el-bbarrio.svg",
+      "president": {
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://kingsleague.dev/presidents/adri-contreras.webp",
+        "teamId": "el-barrio"
+      }
+    }
+  },
+  {
+    "wins": 1,
+    "loses": 2,
+    "goalsScored": 9,
+    "goalsConceded": 9,
+    "yellowCards": 0,
+    "redCards": 0,
+    "team": {
+      "id": "Rayo de Barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "/rayo-barcelona.svg",
+      "president": {
+        "id": "spursito",
+        "name": "Spursito",
+        "image": "https://kingsleague.dev/presidents/spursito.webp",
+        "teamId": "rayo-barcelona"
+      }
+    }
+  },
+  {
+    "wins": 1,
+    "loses": 2,
+    "goalsScored": 7,
+    "goalsConceded": 9,
+    "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "id": "Aniquiladores FC",
+      "name": "Aniquiladores FC",
+      "image": "/aniquiladores-fc.svg",
+      "president": {
+        "id": "juan-guarnizo",
+        "name": "Juan Guarnizo",
+        "image": "https://kingsleague.dev/presidents/juan-guarnizo.webp",
+        "teamId": "aniquiladores-fc"
+      }
+    }
+  },
+  {
+    "wins": 1,
+    "loses": 2,
+    "goalsScored": 5,
+    "goalsConceded": 8,
+    "yellowCards": 3,
+    "redCards": 0,
+    "team": {
+      "id": "XBUYER TEAM",
+      "name": "XBUYER TEAM",
+      "image": "/xbuyer.svg",
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://kingsleague.dev/presidents/hnos-buyer.webp",
+        "teamId": "xbuyer-team"
+      }
+    }
+  },
+  {
+    "wins": 0,
+    "loses": 3,
+    "goalsScored": 7,
+    "goalsConceded": 12,
+    "yellowCards": 2,
+    "redCards": 0,
+    "team": {
+      "id": "Jijantes FC",
+      "name": "Jijantes FC",
+      "image": "/jijantes.svg",
+      "president": {
+        "id": "gerard-romero",
+        "name": "Gerard Romero",
+        "image": "https://kingsleague.dev/presidents/gerard-romero.webp",
+        "teamId": "jijantes-fc"
+      }
+    }
+  },
+  {
+    "wins": 0,
+    "loses": 3,
+    "goalsScored": 3,
+    "goalsConceded": 9,
+    "yellowCards": 4,
+    "redCards": 0,
+    "team": {
+      "id": "PIO FC",
+      "name": "PIO FC",
+      "image": "/pio-fc.svg",
+      "president": {
+        "id": "rivers",
+        "name": "Rivers",
+        "image": "https://kingsleague.dev/presidents/rivers.webp",
+        "teamId": "pio-fc"
+      }
+    }
+  }
+]
