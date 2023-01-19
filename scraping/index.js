@@ -25,7 +25,7 @@ async function scrapingLiderboard () {
     yellowCards: { selector: '.fs-table-text_8', typeOf: 'number' },
     redCards: { selector: '.fs-table-text_9', typeOf: 'number' }
   }
-  // Para recuperar los la info de los teams.json / Hacemos un Join de la info => agregamos info adicional al JSON
+  // Para recuperar los la info de los teams.json / Hacemos un Join de la info => agregamos info adicional al obj del JSON
   const getTeamIdFrom = ({ name }) => {
     const { presidentId, ...restOfTeam } = TEAM.find(team => team.name === name)
     const president = PRESIDENTS.find(president => president.id === presidentId)
