@@ -2,62 +2,74 @@
     {
         "id": "Ultimate Móstoles",
         "name": "Ultimate Móstoles",
-        "image": "/ultimate-mostoles.svg"
+        "image": "/ultimate-mostoles.svg",
+        "presidentId": "djmariio"
     },
     {
         "id": "1K FC",
         "name": "1K FC",
-        "image": "/1k.svg"
+        "image": "/1k.svg",
+        "presidentId": "iker-casillas"
     },
     {
         "id": "Saiyans FC",
         "name": "Saiyans FC",
-        "image": "/saiyans-fc.svg"
+        "image": "/saiyans-fc.svg",
+        "presidentId": "thegrefg"
     },
     {
         "id": "Kunisports",
         "name": "Kunisports",
-        "image": "/kunisports.svg"
+        "image": "/kunisports.svg",
+        "presidentId": "kun-aguero"
     },
     {
         "id": "El Barrio",
         "name": "El Barrio",
-        "image": "/el-bbarrio.svg"
+        "image": "/el-bbarrio.svg",
+        "presidentId": "adri-contreras"
     },
     {
         "id": "Los Troncos FC",
         "name": "Los Troncos FC",
-        "image": "/los-troncos.jpg"
+        "image": "/los-troncos.jpg",
+        "presidentId": "perxitaa"
     },
     {
         "id": "Porcinos FC",
         "name": "Porcinos FC",
-        "image": "/porcinos.svg"
+        "image": "/porcinos.svg",
+        "presidentId": "ibai-llanos"
     },
     {
         "id": "Rayo de Barcelona",
         "name": "Rayo de Barcelona",
-        "image": "/rayo-barcelona.svg"
+        "image": "/rayo-barcelona.svg",
+        "presidentId": "spursito"
     },
     {
         "id": "Jijantes FC",
         "name": "Jijantes FC",
-        "image": "/jijantes.svg"
+        "image": "/jijantes.svg",
+        "presidentId": "gerard-romero"
     },
     {
         "id": "XBUYER TEAM",
         "name": "XBUYER TEAM",
-        "image": "/xbuyer.svg"
+        "image": "/xbuyer.svg",
+        "presidentId": "hnos-buyer"
     },
     {
         "id": "Aniquiladores FC",
         "name": "Aniquiladores FC",
-        "image": "/aniquiladores-fc.svg"
+        "image": "/aniquiladores-fc.svg",
+        "presidentId": "juan-guarnizo"
     },
     {
         "id": "PIO FC",
         "name": "PIO FC",
-        "image": "/pio-fc.svg"
+        "image": "/pio-fc.svg",
+        "presidentId": "rivers"
     }
     
 ]
