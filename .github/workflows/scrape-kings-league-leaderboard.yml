@@ -29,6 +29,7 @@ jobs:
           run_install: true
       - run: |
           node scraping/leaderboard.js
+          git config user.name MakoskiVictor
           git add -A
           git commit -m "[bot] Update KL Database"
           git push origin main
