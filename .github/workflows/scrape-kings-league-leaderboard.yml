@@ -30,6 +30,7 @@ jobs:
       - run: |
           node scraping/leaderboard.js
           git config user.name MakoskiVictor
+          git config user.email "makoski.ed@gmail.com"
           git add -A
           git commit -m "[bot] Update KL Database"
           git push origin main
