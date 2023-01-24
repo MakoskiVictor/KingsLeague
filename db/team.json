@@ -2,73 +2,73 @@
     {
         "id": "Ultimate Móstoles",
         "name": "Ultimate Móstoles",
-        "image": "/ultimate-mostoles.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/ultimate-mostoles.svg",
         "presidentId": "djmariio"
     },
     {
         "id": "1K FC",
         "name": "1K FC",
-        "image": "/1k.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/1k.svg",
         "presidentId": "iker-casillas"
     },
     {
         "id": "Saiyans FC",
         "name": "Saiyans FC",
-        "image": "/saiyans-fc.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/saiyans-fc.svg",
         "presidentId": "thegrefg"
     },
     {
         "id": "Kunisports",
         "name": "Kunisports",
-        "image": "/kunisports.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/kunisports.svg",
         "presidentId": "kun-aguero"
     },
     {
         "id": "El Barrio",
         "name": "El Barrio",
-        "image": "/el-bbarrio.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/el-bbarrio.svg",
         "presidentId": "adri-contreras"
     },
     {
         "id": "Los Troncos FC",
         "name": "Los Troncos FC",
-        "image": "/los-troncos.jpg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/los-troncos.jpg",
         "presidentId": "perxitaa"
     },
     {
         "id": "Porcinos FC",
         "name": "Porcinos FC",
-        "image": "/porcinos.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/porcinos.svg",
         "presidentId": "ibai-llanos"
     },
     {
         "id": "Rayo de Barcelona",
         "name": "Rayo de Barcelona",
-        "image": "/rayo-barcelona.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/rayo-barcelona.svg",
         "presidentId": "spursito"
     },
     {
         "id": "Jijantes FC",
         "name": "Jijantes FC",
-        "image": "/jijantes.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/jijantes.svg",
         "presidentId": "gerard-romero"
     },
     {
         "id": "XBUYER TEAM",
         "name": "XBUYER TEAM",
-        "image": "/xbuyer.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/xbuyer.svg",
         "presidentId": "hnos-buyer"
     },
     {
         "id": "Aniquiladores FC",
         "name": "Aniquiladores FC",
-        "image": "/aniquiladores-fc.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/aniquiladores-fc.svg",
         "presidentId": "juan-guarnizo"
     },
     {
         "id": "PIO FC",
         "name": "PIO FC",
-        "image": "/pio-fc.svg",
+        "image": "https://kings-league-api.makoski.workers.dev/teams/pio-fc.svg",
         "presidentId": "rivers"
     }
     
