@@ -2,7 +2,7 @@ import { Hono } from 'hono'
 import { serveStatic } from 'hono/serve-static.module'
 import leaderboard from '../db/leaderboard.json'
 import presidents from '../db/presidents.json'
-import team from '../db/Team.json'
+import team from '../db/team.json'
 
 const app = new Hono()
 
