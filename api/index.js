@@ -23,11 +23,11 @@ app.get('/', (c) => {
   ])
 })
 
-app.get('/leaderboard', (c) => {
+app.get('/leaderboard\\/?', (c) => {
   return c.json(leaderboard)
 })
 
-app.get('/presidents', (c) => {
+app.get('/presidents\\/?', (c) => {
   return c.json(presidents)
 })
 
@@ -39,8 +39,16 @@ app.get('/presidents/:id', (c) => {
     : c.json({ message: 'President not found' }, 404)
 })
 
-app.get('/teams', (c) => {
+app.get('/teams\\/?', (c) => {
   return c.json(team)
+})
+
+app.get('/teams/:id', (c) => {
+  const id = c.req.param('id')
+  const foundTeam = team.find(team => team.id === id)
+  return foundTeam
+    ? c.json(foundTeam)
+    : c.json({ message: 'Team not found' }, 404)
 })
 
 app.get('/static/*', serveStatic({ root: './' }))
