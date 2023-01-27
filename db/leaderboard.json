@@ -9,7 +9,7 @@
     "team": {
       "id": "Saiyans FC",
       "name": "Saiyans FC",
-      "image": "/saiyans-fc.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/saiyans-fc.svg",
       "president": {
         "id": "thegrefg",
         "name": "TheGrefg",
@@ -28,7 +28,7 @@
     "team": {
       "id": "Ultimate Móstoles",
       "name": "Ultimate Móstoles",
-      "image": "/ultimate-mostoles.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/ultimate-mostoles.svg",
       "president": {
         "id": "djmariio",
         "name": "DjMaRiiO",
@@ -47,7 +47,7 @@
     "team": {
       "id": "Porcinos FC",
       "name": "Porcinos FC",
-      "image": "/porcinos.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/porcinos.svg",
       "president": {
         "id": "ibai-llanos",
         "name": "Ibai Llanos",
@@ -66,7 +66,7 @@
     "team": {
       "id": "1K FC",
       "name": "1K FC",
-      "image": "/1k.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/1k.svg",
       "president": {
         "id": "iker-casillas",
         "name": "Iker Casillas",
@@ -85,7 +85,7 @@
     "team": {
       "id": "Kunisports",
       "name": "Kunisports",
-      "image": "/kunisports.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/kunisports.svg",
       "president": {
         "id": "kun-aguero",
         "name": "Kun Agüero",
@@ -104,7 +104,7 @@
     "team": {
       "id": "El Barrio",
       "name": "El Barrio",
-      "image": "/el-bbarrio.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/el-bbarrio.svg",
       "president": {
         "id": "adri-contreras",
         "name": "Adri Contreras",
@@ -123,7 +123,7 @@
     "team": {
       "id": "Aniquiladores FC",
       "name": "Aniquiladores FC",
-      "image": "/aniquiladores-fc.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/aniquiladores-fc.svg",
       "president": {
         "id": "juan-guarnizo",
         "name": "Juan Guarnizo",
@@ -142,7 +142,7 @@
     "team": {
       "id": "XBUYER TEAM",
       "name": "XBUYER TEAM",
-      "image": "/xbuyer.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/xbuyer.svg",
       "president": {
         "id": "hnos-buyer",
         "name": "Hnos. Buyer",
@@ -161,7 +161,7 @@
     "team": {
       "id": "Los Troncos FC",
       "name": "Los Troncos FC",
-      "image": "/los-troncos.jpg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.jpg",
       "president": {
         "id": "perxitaa",
         "name": "Perxitaa",
@@ -180,7 +180,7 @@
     "team": {
       "id": "Rayo de Barcelona",
       "name": "Rayo de Barcelona",
-      "image": "/rayo-barcelona.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/rayo-barcelona.svg",
       "president": {
         "id": "spursito",
         "name": "Spursito",
@@ -199,7 +199,7 @@
     "team": {
       "id": "Jijantes FC",
       "name": "Jijantes FC",
-      "image": "/jijantes.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/jijantes.svg",
       "president": {
         "id": "gerard-romero",
         "name": "Gerard Romero",
@@ -218,7 +218,7 @@
     "team": {
       "id": "PIO FC",
       "name": "PIO FC",
-      "image": "/pio-fc.svg",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/pio-fc.svg",
       "president": {
         "id": "rivers",
         "name": "Rivers",
