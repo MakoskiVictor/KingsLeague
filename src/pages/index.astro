@@ -13,11 +13,33 @@ const teams = await response.json();
         teams.map(({ id, image, name }) => (
           <div>
             <a href={`/team/${id}`}>
-              <img src={image} alt={`Escudo del equipo ${name}`} />
+              <img class="aspect-square w-12" src={image} alt={`Escudo del equipo ${name}`} />
             </a>
           </div>
         ))
       }
+      <nav>
+        <ul>
+          <li>
+            <a href="/equipos">Equipos</a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="/calendario">Calendario</a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="/contacto">Contacto</a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="/reglamento">Reglamento</a>
+          </li>
+        </ul>
+      </nav>
     </header>
     <main></main>
   </div>
@@ -35,3 +57,4 @@ const teams = await response.json();
     margin: 0;
   }
 </style>
+
