@@ -8,7 +8,7 @@ export async function scrape (url) {
 
 export const URLS = {
   leaderboard: 'https://kingsleague.pro/estadisticas/clasificacion/',
-  mpv: 'https://kingsleague.pro/estadisticas/mvp/'
+  mvp: 'https://kingsleague.pro/estadisticas/mvp/'
 }
 
 // Limpieza de datos
