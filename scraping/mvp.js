@@ -1,6 +1,6 @@
 
-import { writeDBFile, TEAM } from '../db/index.js'
-import { scrape, URLS, cleanText } from './utils.js'
+import { TEAM } from '../db/index.js'
+import { cleanText } from './utils.js'
 
 const MVP_SELECTORS = {
   team: { selector: '.fs-table-text_3', typeOf: 'string' },
@@ -9,8 +9,7 @@ const MVP_SELECTORS = {
   mvps: { selector: '.fs-table-text_6', typeOf: 'number' }
 }
 
-async function getMvpList () {
-  const $ = await scrape(URLS.mvp)
+export async function getMvpList ($) {
   const $rows = $('table tbody tr')
 
   const getImageFromTeam = ({ name }) => {
@@ -44,6 +43,3 @@ async function getMvpList () {
   })
   return mvpList
 }
-
-const mvpList = await getMvpList()
-await writeDBFile('mvpList', mvpList)
