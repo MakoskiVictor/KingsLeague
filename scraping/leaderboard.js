@@ -1,15 +1,16 @@
-import * as cheerio from 'cheerio'
+/* import * as cheerio from 'cheerio' */
 import { writeDBFile, TEAM, PRESIDENTS } from '../db/index.js'
+import { scrape, cleanText } from './utils.js'
 
 const URLS = {
   leaderboard: 'https://kingsleague.pro/estadisticas/clasificacion/'
 }
 
-async function scrape (url) {
+/* async function scrape (url) {
   const res = await fetch(url)
   const html = await res.text()
   return cheerio.load(html)
-}
+} */
 
 async function scrapingLiderboard () {
   const $ = await scrape(URLS.leaderboard)
@@ -33,10 +34,10 @@ async function scrapingLiderboard () {
   }
 
   // Limpieza de datos
-  const cleanText = text => text
+  /*   const cleanText = text => text
     .replace(/\t|\n|\s:/g, '')
     .replace(/.*:/g, ' ')
-    .trim()
+    .trim() */
 
   const leaderBoardSelectorEntries = Object.entries(LEADERBOARD_SELECTORS)
 
