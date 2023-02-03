@@ -1,43 +1,26 @@
-/* import * as cheerio from 'cheerio' */
-import { writeDBFile, TEAM, PRESIDENTS } from '../db/index.js'
-import { scrape, cleanText } from './utils.js'
+import { TEAM, PRESIDENTS } from '../db/index.js'
+import { cleanText } from './utils.js'
 
-const URLS = {
-  leaderboard: 'https://kingsleague.pro/estadisticas/clasificacion/'
+// Selectores
+const LEADERBOARD_SELECTORS = {
+  team: { selector: '.fs-table-text_3', typeOf: 'string' },
+  wins: { selector: '.fs-table-text_4', typeOf: 'number' },
+  loses: { selector: '.fs-table-text_5', typeOf: 'number' },
+  goalsScored: { selector: '.fs-table-text_6', typeOf: 'number' },
+  goalsConceded: { selector: '.fs-table-text_7', typeOf: 'number' },
+  yellowCards: { selector: '.fs-table-text_8', typeOf: 'number' },
+  redCards: { selector: '.fs-table-text_9', typeOf: 'number' }
 }
 
-/* async function scrape (url) {
-  const res = await fetch(url)
-  const html = await res.text()
-  return cheerio.load(html)
-} */
-
-async function scrapingLiderboard () {
-  const $ = await scrape(URLS.leaderboard)
+export async function scrapingLiderboard ($) {
   const $rows = $('table tbody tr')
 
-  // Selectores
-  const LEADERBOARD_SELECTORS = {
-    team: { selector: '.fs-table-text_3', typeOf: 'string' },
-    wins: { selector: '.fs-table-text_4', typeOf: 'number' },
-    loses: { selector: '.fs-table-text_5', typeOf: 'number' },
-    goalsScored: { selector: '.fs-table-text_6', typeOf: 'number' },
-    goalsConceded: { selector: '.fs-table-text_7', typeOf: 'number' },
-    yellowCards: { selector: '.fs-table-text_8', typeOf: 'number' },
-    redCards: { selector: '.fs-table-text_9', typeOf: 'number' }
-  }
   // Para recuperar los la info de los teams.json / Hacemos un Join de la info => agregamos info adicional al obj del JSON
   const getTeamIdFrom = ({ name }) => {
     const { presidentId, ...restOfTeam } = TEAM.find(team => team.name === name)
     const president = PRESIDENTS.find(president => president.id === presidentId)
     return { ...restOfTeam, president }
   }
-
-  // Limpieza de datos
-  /*   const cleanText = text => text
-    .replace(/\t|\n|\s:/g, '')
-    .replace(/.*:/g, ' ')
-    .trim() */
 
   const leaderBoardSelectorEntries = Object.entries(LEADERBOARD_SELECTORS)
 
@@ -63,7 +46,3 @@ async function scrapingLiderboard () {
   })
   return leaderboard
 }
-
-const leaderboard = await scrapingLiderboard()
-
-await writeDBFile('leaderboard', leaderboard)
