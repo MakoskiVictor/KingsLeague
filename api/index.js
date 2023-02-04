@@ -25,6 +25,10 @@ app.get('/', (c) => {
     {
       endpoint: '/mvp',
       descriptions: 'Returns the mvp list'
+    },
+    {
+      endpoint: '/coaches',
+      descriptions: 'Returns the coaches list'
     }
   ])
 })
