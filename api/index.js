@@ -4,6 +4,7 @@ import leaderboard from '../db/leaderboard.json'
 import presidents from '../db/presidents.json'
 import team from '../db/team.json'
 import mvp from '../db/mvp.json'
+import coaches from '../db/coaches.json'
 
 const app = new Hono()
 
@@ -60,6 +61,10 @@ app.get('/static/*', serveStatic({ root: './' }))
 
 app.get('/mvp\\/?', (c) => {
   return c.json(mvp)
+})
+
+app.get('/coaches\\/?', (c) => {
+  return c.json(coaches)
 })
 
 export default app
