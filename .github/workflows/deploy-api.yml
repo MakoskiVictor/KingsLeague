@@ -5,6 +5,10 @@ on:
   pull_request:
     branches:
       - main
+  workflow_run:
+    workflows: [Scrape Kings League Website]
+    types:
+      - completed
 
 jobs:
   deploy:
