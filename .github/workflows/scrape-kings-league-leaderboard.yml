@@ -29,6 +29,8 @@ jobs:
           run_install: true
       - run: |
           node scraping/index.js
+          git config user.email "you@example.com"
+          git config user.name "Your Name"
           git add -A
           git commit -m "[bot] Update KL Database"
           git push origin main
