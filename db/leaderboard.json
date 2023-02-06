@@ -1,8 +1,8 @@
 [
   {
-    "wins": 3,
+    "wins": 4,
     "loses": 1,
-    "goalsScored": 11,
+    "goalsScored": 12,
     "goalsConceded": 5,
     "yellowCards": 6,
     "redCards": 1,
@@ -19,10 +19,48 @@
     }
   },
   {
-    "wins": 3,
+    "wins": 4,
     "loses": 1,
-    "goalsScored": 14,
-    "goalsConceded": 9,
+    "goalsScored": 18,
+    "goalsConceded": 12,
+    "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "id": "Porcinos FC",
+      "name": "Porcinos FC",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/porcinos.svg",
+      "president": {
+        "id": "ibai-llanos",
+        "name": "Ibai Llanos",
+        "image": "https://kingsleague.dev/presidents/ibai-llanos.webp",
+        "teamId": "porcinos-fc"
+      }
+    }
+  },
+  {
+    "wins": 4,
+    "loses": 1,
+    "goalsScored": 10,
+    "goalsConceded": 6,
+    "yellowCards": 6,
+    "redCards": 0,
+    "team": {
+      "id": "Kunisports",
+      "name": "Kunisports",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/kunisports.svg",
+      "president": {
+        "id": "kun-aguero",
+        "name": "Kun Agüero",
+        "image": "https://kingsleague.dev/presidents/kun-aguero.webp",
+        "teamId": "kunisports"
+      }
+    }
+  },
+  {
+    "wins": 3,
+    "loses": 2,
+    "goalsScored": 15,
+    "goalsConceded": 12,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -39,28 +77,9 @@
   },
   {
     "wins": 3,
-    "loses": 1,
-    "goalsScored": 14,
-    "goalsConceded": 10,
-    "yellowCards": 1,
-    "redCards": 0,
-    "team": {
-      "id": "Porcinos FC",
-      "name": "Porcinos FC",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/porcinos.svg",
-      "president": {
-        "id": "ibai-llanos",
-        "name": "Ibai Llanos",
-        "image": "https://kingsleague.dev/presidents/ibai-llanos.webp",
-        "teamId": "porcinos-fc"
-      }
-    }
-  },
-  {
-    "wins": 3,
-    "loses": 1,
-    "goalsScored": 14,
-    "goalsConceded": 12,
+    "loses": 2,
+    "goalsScored": 16,
+    "goalsConceded": 15,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -77,47 +96,9 @@
   },
   {
     "wins": 3,
-    "loses": 1,
-    "goalsScored": 7,
-    "goalsConceded": 5,
-    "yellowCards": 6,
-    "redCards": 0,
-    "team": {
-      "id": "Kunisports",
-      "name": "Kunisports",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/kunisports.svg",
-      "president": {
-        "id": "kun-aguero",
-        "name": "Kun Agüero",
-        "image": "https://kingsleague.dev/presidents/kun-aguero.webp",
-        "teamId": "kunisports"
-      }
-    }
-  },
-  {
-    "wins": 2,
     "loses": 2,
-    "goalsScored": 13,
-    "goalsConceded": 9,
-    "yellowCards": 2,
-    "redCards": 0,
-    "team": {
-      "id": "El Barrio",
-      "name": "El Barrio",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/el-bbarrio.svg",
-      "president": {
-        "id": "adri-contreras",
-        "name": "Adri Contreras",
-        "image": "https://kingsleague.dev/presidents/adri-contreras.webp",
-        "teamId": "el-barrio"
-      }
-    }
-  },
-  {
-    "wins": 2,
-    "loses": 2,
-    "goalsScored": 8,
-    "goalsConceded": 10,
+    "goalsScored": 15,
+    "goalsConceded": 15,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -133,10 +114,10 @@
     }
   },
   {
-    "wins": 2,
+    "wins": 3,
     "loses": 2,
-    "goalsScored": 8,
-    "goalsConceded": 10,
+    "goalsScored": 11,
+    "goalsConceded": 12,
     "yellowCards": 3,
     "redCards": 0,
     "team": {
@@ -153,28 +134,28 @@
   },
   {
     "wins": 2,
-    "loses": 2,
-    "goalsScored": 12,
-    "goalsConceded": 15,
+    "loses": 3,
+    "goalsScored": 13,
+    "goalsConceded": 10,
     "yellowCards": 2,
-    "redCards": 1,
+    "redCards": 0,
     "team": {
-      "id": "Los Troncos FC",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.jpg",
+      "id": "El Barrio",
+      "name": "El Barrio",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/el-bbarrio.svg",
       "president": {
-        "id": "perxitaa",
-        "name": "Perxitaa",
-        "image": "https://kingsleague.dev/presidents/perxitaa.webp",
-        "teamId": "los-troncos-fc"
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://kingsleague.dev/presidents/adri-contreras.webp",
+        "teamId": "el-barrio"
       }
     }
   },
   {
-    "wins": 1,
+    "wins": 2,
     "loses": 3,
-    "goalsScored": 10,
-    "goalsConceded": 14,
+    "goalsScored": 15,
+    "goalsConceded": 18,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -190,29 +171,29 @@
     }
   },
   {
-    "wins": 0,
-    "loses": 4,
-    "goalsScored": 9,
-    "goalsConceded": 15,
-    "yellowCards": 3,
-    "redCards": 0,
+    "wins": 2,
+    "loses": 3,
+    "goalsScored": 17,
+    "goalsConceded": 22,
+    "yellowCards": 2,
+    "redCards": 1,
     "team": {
-      "id": "Jijantes FC",
-      "name": "Jijantes FC",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/jijantes.svg",
+      "id": "Los Troncos FC",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.jpg",
       "president": {
-        "id": "gerard-romero",
-        "name": "Gerard Romero",
-        "image": "https://kingsleague.dev/presidents/gerard-romero.webp",
-        "teamId": "jijantes-fc"
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kingsleague.dev/presidents/perxitaa.webp",
+        "teamId": "los-troncos-fc"
       }
     }
   },
   {
     "wins": 0,
-    "loses": 4,
-    "goalsScored": 5,
-    "goalsConceded": 11,
+    "loses": 5,
+    "goalsScored": 9,
+    "goalsConceded": 16,
     "yellowCards": 5,
     "redCards": 0,
     "team": {
@@ -224,6 +205,25 @@
         "name": "Rivers",
         "image": "https://kingsleague.dev/presidents/rivers.webp",
         "teamId": "pio-fc"
+      }
+    }
+  },
+  {
+    "wins": 0,
+    "loses": 5,
+    "goalsScored": 11,
+    "goalsConceded": 19,
+    "yellowCards": 3,
+    "redCards": 0,
+    "team": {
+      "id": "Jijantes FC",
+      "name": "Jijantes FC",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/jijantes.svg",
+      "president": {
+        "id": "gerard-romero",
+        "name": "Gerard Romero",
+        "image": "https://kingsleague.dev/presidents/gerard-romero.webp",
+        "teamId": "jijantes-fc"
       }
     }
   }
