@@ -19,7 +19,7 @@
     }
   },
   {
-    "wins": 0,
+    "wins": 5,
     "loses": 1,
     "goalsScored": 22,
     "goalsConceded": 15,
@@ -57,26 +57,7 @@
     }
   },
   {
-    "wins": 1,
-    "loses": 3,
-    "goalsScored": 15,
-    "goalsConceded": 25,
-    "yellowCards": 2,
-    "redCards": 1,
-    "team": {
-      "id": "Los Troncos FC",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.jpg",
-      "president": {
-        "id": "perxitaa",
-        "name": "Perxitaa",
-        "image": "https://kingsleague.dev/presidents/perxitaa.webp",
-        "teamId": "los-troncos-fc"
-      }
-    }
-  },
-  {
-    "wins": 0,
+    "wins": 4,
     "loses": 2,
     "goalsScored": 18,
     "goalsConceded": 14,
@@ -116,8 +97,8 @@
   {
     "wins": 3,
     "loses": 3,
-    "goalsScored": 14,
-    "goalsConceded": 15,
+    "goalsScored": 17,
+    "goalsConceded": 18,
     "yellowCards": 1,
     "redCards": 0,
     "team": {
@@ -152,6 +133,25 @@
     }
   },
   {
+    "wins": 3,
+    "loses": 3,
+    "goalsScored": 20,
+    "goalsConceded": 25,
+    "yellowCards": 2,
+    "redCards": 1,
+    "team": {
+      "id": "Los Troncos FC",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.jpg",
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kingsleague.dev/presidents/perxitaa.webp",
+        "teamId": "los-troncos-fc"
+      }
+    }
+  },
+  {
     "wins": 2,
     "loses": 4,
     "goalsScored": 16,
@@ -172,8 +172,8 @@
   },
   {
     "wins": 2,
-    "loses": -2,
-    "goalsScored": 15,
+    "loses": 4,
+    "goalsScored": 17,
     "goalsConceded": 21,
     "yellowCards": 1,
     "redCards": 0,
@@ -210,7 +210,7 @@
   },
   {
     "wins": 0,
-    "loses": 2,
+    "loses": 6,
     "goalsScored": 11,
     "goalsConceded": 24,
     "yellowCards": 3,
