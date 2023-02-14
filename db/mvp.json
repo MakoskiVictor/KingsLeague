@@ -93,7 +93,7 @@
     "mvps": 1,
     "rank": 12,
     "team": "Los Troncos FC",
-    "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.jpg"
+    "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.svg"
   },
   {
     "playerName": "J. Verdú «Gingko»",
@@ -101,7 +101,7 @@
     "mvps": 1,
     "rank": 13,
     "team": "Los Troncos FC",
-    "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.jpg"
+    "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.svg"
   },
   {
     "playerName": "Lao",
