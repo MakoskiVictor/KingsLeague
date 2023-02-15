@@ -4,7 +4,7 @@
     "loses": 1,
     "goalsScored": 14,
     "goalsConceded": 7,
-    "yellowCards": 6,
+    "yellowCards": 3,
     "redCards": 1,
     "team": {
       "id": "Saiyans FC",
@@ -38,11 +38,11 @@
     }
   },
   {
-    "wins": 4,
+    "wins": 5,
     "loses": 1,
     "goalsScored": 13,
     "goalsConceded": 8,
-    "yellowCards": 6,
+    "yellowCards": 2,
     "redCards": 0,
     "team": {
       "id": "Kunisports",
@@ -80,7 +80,7 @@
     "loses": 3,
     "goalsScored": 18,
     "goalsConceded": 17,
-    "yellowCards": 1,
+    "yellowCards": 0,
     "redCards": 0,
     "team": {
       "id": "1K FC",
@@ -138,7 +138,7 @@
     "goalsScored": 20,
     "goalsConceded": 25,
     "yellowCards": 2,
-    "redCards": 1,
+    "redCards": 0,
     "team": {
       "id": "Los Troncos FC",
       "name": "Los Troncos FC",
@@ -156,7 +156,7 @@
     "loses": 4,
     "goalsScored": 16,
     "goalsConceded": 13,
-    "yellowCards": 2,
+    "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "El Barrio",
@@ -175,7 +175,7 @@
     "loses": 4,
     "goalsScored": 17,
     "goalsConceded": 21,
-    "yellowCards": 1,
+    "yellowCards": 0,
     "redCards": 0,
     "team": {
       "id": "Rayo de Barcelona",
@@ -194,7 +194,7 @@
     "loses": 5,
     "goalsScored": 14,
     "goalsConceded": 16,
-    "yellowCards": 5,
+    "yellowCards": 4,
     "redCards": 0,
     "team": {
       "id": "PIO FC",
@@ -213,7 +213,7 @@
     "loses": 6,
     "goalsScored": 11,
     "goalsConceded": 24,
-    "yellowCards": 3,
+    "yellowCards": 2,
     "redCards": 0,
     "team": {
       "id": "Jijantes FC",
