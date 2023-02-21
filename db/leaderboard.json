@@ -4,8 +4,8 @@
     "loses": 1,
     "goalsScored": 27,
     "goalsConceded": 17,
-    "yellowCards": 1,
-    "redCards": 0,
+    "yellowCards": 3,
+    "redCards": 1,
     "team": {
       "id": "Porcinos FC",
       "name": "Porcinos FC",
@@ -23,8 +23,8 @@
     "loses": 1,
     "goalsScored": 15,
     "goalsConceded": 7,
-    "yellowCards": 3,
-    "redCards": 1,
+    "yellowCards": 1,
+    "redCards": 0,
     "team": {
       "id": "Saiyans FC",
       "name": "Saiyans FC",
@@ -42,7 +42,7 @@
     "loses": 2,
     "goalsScored": 22,
     "goalsConceded": 17,
-    "yellowCards": 1,
+    "yellowCards": 2,
     "redCards": 0,
     "team": {
       "id": "Ultimate Móstoles",
@@ -61,7 +61,7 @@
     "loses": 2,
     "goalsScored": 15,
     "goalsConceded": 14,
-    "yellowCards": 2,
+    "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "Kunisports",
@@ -80,7 +80,7 @@
     "loses": 4,
     "goalsScored": 22,
     "goalsConceded": 15,
-    "yellowCards": 1,
+    "yellowCards": 0,
     "redCards": 0,
     "team": {
       "id": "El Barrio",
@@ -99,7 +99,7 @@
     "loses": 4,
     "goalsScored": 20,
     "goalsConceded": 22,
-    "yellowCards": 0,
+    "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "1K FC",
@@ -118,7 +118,7 @@
     "loses": 4,
     "goalsScored": 19,
     "goalsConceded": 21,
-    "yellowCards": 1,
+    "yellowCards": 3,
     "redCards": 0,
     "team": {
       "id": "Aniquiladores FC",
@@ -137,7 +137,7 @@
     "loses": 4,
     "goalsScored": 20,
     "goalsConceded": 23,
-    "yellowCards": 0,
+    "yellowCards": 2,
     "redCards": 0,
     "team": {
       "id": "Rayo de Barcelona",
@@ -156,7 +156,7 @@
     "loses": 4,
     "goalsScored": 16,
     "goalsConceded": 21,
-    "yellowCards": 3,
+    "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "XBUYER TEAM",
@@ -175,8 +175,8 @@
     "loses": 4,
     "goalsScored": 20,
     "goalsConceded": 26,
-    "yellowCards": 2,
-    "redCards": 1,
+    "yellowCards": 0,
+    "redCards": 0,
     "team": {
       "id": "Los Troncos FC",
       "name": "Los Troncos FC",
