@@ -1,29 +1,10 @@
 [
   {
-    "wins": 6,
+    "wins": 7,
     "loses": 2,
-    "goalsScored": 27,
-    "goalsConceded": 17,
-    "yellowCards": 10,
-    "redCards": 0,
-    "team": {
-      "id": "Porcinos FC",
-      "name": "Porcinos FC",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/porcinos.svg",
-      "president": {
-        "id": "ibai-llanos",
-        "name": "Ibai Llanos",
-        "image": "https://kingsleague.dev/presidents/ibai-llanos.webp",
-        "teamId": "porcinos-fc"
-      }
-    }
-  },
-  {
-    "wins": 6,
-    "loses": 2,
-    "goalsScored": 16,
-    "goalsConceded": 10,
-    "yellowCards": 6,
+    "goalsScored": 19,
+    "goalsConceded": 11,
+    "yellowCards": 8,
     "redCards": 0,
     "team": {
       "id": "Saiyans FC",
@@ -38,11 +19,11 @@
     }
   },
   {
-    "wins": 6,
+    "wins": 7,
     "loses": 2,
-    "goalsScored": 24,
-    "goalsConceded": 18,
-    "yellowCards": 6,
+    "goalsScored": 29,
+    "goalsConceded": 22,
+    "yellowCards": 7,
     "redCards": 0,
     "team": {
       "id": "Ultimate Móstoles",
@@ -58,10 +39,29 @@
   },
   {
     "wins": 6,
-    "loses": 2,
+    "loses": 3,
+    "goalsScored": 31,
+    "goalsConceded": 22,
+    "yellowCards": 9,
+    "redCards": 0,
+    "team": {
+      "id": "Porcinos FC",
+      "name": "Porcinos FC",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/porcinos.svg",
+      "president": {
+        "id": "ibai-llanos",
+        "name": "Ibai Llanos",
+        "image": "https://kingsleague.dev/presidents/ibai-llanos.webp",
+        "teamId": "porcinos-fc"
+      }
+    }
+  },
+  {
+    "wins": 6,
+    "loses": 3,
     "goalsScored": 18,
-    "goalsConceded": 15,
-    "yellowCards": 3,
+    "goalsConceded": 19,
+    "yellowCards": -1,
     "redCards": 0,
     "team": {
       "id": "Kunisports",
@@ -76,11 +76,11 @@
     }
   },
   {
-    "wins": 4,
+    "wins": 5,
     "loses": 4,
-    "goalsScored": 26,
-    "goalsConceded": 17,
-    "yellowCards": 9,
+    "goalsScored": 29,
+    "goalsConceded": 18,
+    "yellowCards": 11,
     "redCards": 0,
     "team": {
       "id": "El Barrio",
@@ -95,30 +95,11 @@
     }
   },
   {
-    "wins": 4,
+    "wins": 5,
     "loses": 4,
-    "goalsScored": 23,
-    "goalsConceded": 23,
-    "yellowCards": 0,
-    "redCards": 0,
-    "team": {
-      "id": "Aniquiladores FC",
-      "name": "Aniquiladores FC",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/aniquiladores-fc.svg",
-      "president": {
-        "id": "juan-guarnizo",
-        "name": "Juan Guarnizo",
-        "image": "https://kingsleague.dev/presidents/juan-guarnizo.webp",
-        "teamId": "aniquiladores-fc"
-      }
-    }
-  },
-  {
-    "wins": 4,
-    "loses": 4,
-    "goalsScored": 25,
+    "goalsScored": 29,
     "goalsConceded": 30,
-    "yellowCards": -5,
+    "yellowCards": -1,
     "redCards": 0,
     "team": {
       "id": "Los Troncos FC",
@@ -133,11 +114,68 @@
     }
   },
   {
-    "wins": 3,
+    "wins": 4,
     "loses": 5,
-    "goalsScored": 19,
-    "goalsConceded": 18,
-    "yellowCards": 1,
+    "goalsScored": 21,
+    "goalsConceded": 23,
+    "yellowCards": -2,
+    "redCards": 0,
+    "team": {
+      "id": "XBUYER TEAM",
+      "name": "XBUYER TEAM",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/xbuyer.svg",
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://kingsleague.dev/presidents/hnos-buyer.webp",
+        "teamId": "xbuyer-team"
+      }
+    }
+  },
+  {
+    "wins": 4,
+    "loses": 5,
+    "goalsScored": 28,
+    "goalsConceded": 30,
+    "yellowCards": -2,
+    "redCards": 0,
+    "team": {
+      "id": "1K FC",
+      "name": "1K FC",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/1k.svg",
+      "president": {
+        "id": "iker-casillas",
+        "name": "Iker Casillas",
+        "image": "https://kingsleague.dev/presidents/iker-casillas.webp",
+        "teamId": "1k"
+      }
+    }
+  },
+  {
+    "wins": 4,
+    "loses": 5,
+    "goalsScored": 23,
+    "goalsConceded": 27,
+    "yellowCards": -4,
+    "redCards": 0,
+    "team": {
+      "id": "Aniquiladores FC",
+      "name": "Aniquiladores FC",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/aniquiladores-fc.svg",
+      "president": {
+        "id": "juan-guarnizo",
+        "name": "Juan Guarnizo",
+        "image": "https://kingsleague.dev/presidents/juan-guarnizo.webp",
+        "teamId": "aniquiladores-fc"
+      }
+    }
+  },
+  {
+    "wins": 3,
+    "loses": 6,
+    "goalsScored": 22,
+    "goalsConceded": 22,
+    "yellowCards": 0,
     "redCards": 0,
     "team": {
       "id": "PIO FC",
@@ -153,29 +191,10 @@
   },
   {
     "wins": 3,
-    "loses": 5,
-    "goalsScored": 24,
-    "goalsConceded": 27,
-    "yellowCards": -3,
-    "redCards": 0,
-    "team": {
-      "id": "1K FC",
-      "name": "1K FC",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/1k.svg",
-      "president": {
-        "id": "iker-casillas",
-        "name": "Iker Casillas",
-        "image": "https://kingsleague.dev/presidents/iker-casillas.webp",
-        "teamId": "1k"
-      }
-    }
-  },
-  {
-    "wins": 3,
-    "loses": 5,
-    "goalsScored": 22,
-    "goalsConceded": 27,
-    "yellowCards": -5,
+    "loses": 6,
+    "goalsScored": 23,
+    "goalsConceded": 30,
+    "yellowCards": -7,
     "redCards": 0,
     "team": {
       "id": "Rayo de Barcelona",
@@ -190,30 +209,11 @@
     }
   },
   {
-    "wins": 3,
-    "loses": 5,
-    "goalsScored": 17,
-    "goalsConceded": 23,
-    "yellowCards": -6,
-    "redCards": 0,
-    "team": {
-      "id": "XBUYER TEAM",
-      "name": "XBUYER TEAM",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/xbuyer.svg",
-      "president": {
-        "id": "hnos-buyer",
-        "name": "Hnos. Buyer",
-        "image": "https://kingsleague.dev/presidents/hnos-buyer.webp",
-        "teamId": "xbuyer-team"
-      }
-    }
-  },
-  {
     "wins": 0,
-    "loses": 8,
-    "goalsScored": 16,
-    "goalsConceded": 32,
-    "yellowCards": -16,
+    "loses": 9,
+    "goalsScored": 17,
+    "goalsConceded": 35,
+    "yellowCards": -18,
     "redCards": 0,
     "team": {
       "id": "Jijantes FC",
