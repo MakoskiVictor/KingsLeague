@@ -1,29 +1,10 @@
 [
   {
     "wins": 7,
-    "loses": 2,
-    "goalsScored": 19,
-    "goalsConceded": 11,
-    "yellowCards": 8,
-    "redCards": 0,
-    "team": {
-      "id": "Saiyans FC",
-      "name": "Saiyans FC",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/saiyans-fc.svg",
-      "president": {
-        "id": "thegrefg",
-        "name": "TheGrefg",
-        "image": "https://kingsleague.dev/presidents/thegrefg.webp",
-        "teamId": "saiyans-fc"
-      }
-    }
-  },
-  {
-    "wins": 7,
-    "loses": 2,
-    "goalsScored": 29,
-    "goalsConceded": 22,
-    "yellowCards": 7,
+    "loses": 3,
+    "goalsScored": 31,
+    "goalsConceded": 25,
+    "yellowCards": 6,
     "redCards": 0,
     "team": {
       "id": "Ultimate Móstoles",
@@ -38,10 +19,29 @@
     }
   },
   {
-    "wins": 6,
+    "wins": 7,
     "loses": 3,
-    "goalsScored": 31,
-    "goalsConceded": 22,
+    "goalsScored": 20,
+    "goalsConceded": 16,
+    "yellowCards": 4,
+    "redCards": 0,
+    "team": {
+      "id": "Saiyans FC",
+      "name": "Saiyans FC",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/saiyans-fc.svg",
+      "president": {
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://kingsleague.dev/presidents/thegrefg.webp",
+        "teamId": "saiyans-fc"
+      }
+    }
+  },
+  {
+    "wins": 6,
+    "loses": 4,
+    "goalsScored": 32,
+    "goalsConceded": 23,
     "yellowCards": 9,
     "redCards": 0,
     "team": {
@@ -58,10 +58,29 @@
   },
   {
     "wins": 6,
-    "loses": 3,
-    "goalsScored": 18,
-    "goalsConceded": 19,
-    "yellowCards": -1,
+    "loses": 4,
+    "goalsScored": 35,
+    "goalsConceded": 33,
+    "yellowCards": 2,
+    "redCards": 0,
+    "team": {
+      "id": "Los Troncos FC",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.svg",
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kingsleague.dev/presidents/perxitaa.webp",
+        "teamId": "los-troncos-fc"
+      }
+    }
+  },
+  {
+    "wins": 6,
+    "loses": 4,
+    "goalsScored": 19,
+    "goalsConceded": 21,
+    "yellowCards": -2,
     "redCards": 0,
     "team": {
       "id": "Kunisports",
@@ -77,10 +96,10 @@
   },
   {
     "wins": 5,
-    "loses": 4,
-    "goalsScored": 29,
-    "goalsConceded": 18,
-    "yellowCards": 11,
+    "loses": 5,
+    "goalsScored": 30,
+    "goalsConceded": 20,
+    "yellowCards": 10,
     "redCards": 0,
     "team": {
       "id": "El Barrio",
@@ -96,29 +115,10 @@
   },
   {
     "wins": 5,
-    "loses": 4,
-    "goalsScored": 29,
-    "goalsConceded": 30,
-    "yellowCards": -1,
-    "redCards": 0,
-    "team": {
-      "id": "Los Troncos FC",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api.makoski.workers.dev/static/logos/los-troncos.svg",
-      "president": {
-        "id": "perxitaa",
-        "name": "Perxitaa",
-        "image": "https://kingsleague.dev/presidents/perxitaa.webp",
-        "teamId": "los-troncos-fc"
-      }
-    }
-  },
-  {
-    "wins": 4,
     "loses": 5,
-    "goalsScored": 21,
-    "goalsConceded": 23,
-    "yellowCards": -2,
+    "goalsScored": 23,
+    "goalsConceded": 24,
+    "yellowCards": -1,
     "redCards": 0,
     "team": {
       "id": "XBUYER TEAM",
@@ -133,11 +133,11 @@
     }
   },
   {
-    "wins": 4,
+    "wins": 5,
     "loses": 5,
-    "goalsScored": 28,
-    "goalsConceded": 30,
-    "yellowCards": -2,
+    "goalsScored": 30,
+    "goalsConceded": 31,
+    "yellowCards": -1,
     "redCards": 0,
     "team": {
       "id": "1K FC",
@@ -152,10 +152,10 @@
     }
   },
   {
-    "wins": 4,
+    "wins": 5,
     "loses": 5,
-    "goalsScored": 23,
-    "goalsConceded": 27,
+    "goalsScored": 24,
+    "goalsConceded": 28,
     "yellowCards": -4,
     "redCards": 0,
     "team": {
@@ -171,11 +171,11 @@
     }
   },
   {
-    "wins": 3,
+    "wins": 4,
     "loses": 6,
-    "goalsScored": 22,
-    "goalsConceded": 22,
-    "yellowCards": 0,
+    "goalsScored": 25,
+    "goalsConceded": 24,
+    "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "PIO FC",
@@ -191,10 +191,10 @@
   },
   {
     "wins": 3,
-    "loses": 6,
-    "goalsScored": 23,
-    "goalsConceded": 30,
-    "yellowCards": -7,
+    "loses": 7,
+    "goalsScored": 26,
+    "goalsConceded": 36,
+    "yellowCards": -10,
     "redCards": 0,
     "team": {
       "id": "Rayo de Barcelona",
@@ -209,11 +209,11 @@
     }
   },
   {
-    "wins": 0,
+    "wins": 1,
     "loses": 9,
-    "goalsScored": 17,
-    "goalsConceded": 35,
-    "yellowCards": -18,
+    "goalsScored": 22,
+    "goalsConceded": 36,
+    "yellowCards": -14,
     "redCards": 0,
     "team": {
       "id": "Jijantes FC",
